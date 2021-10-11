@@ -1,4 +1,4 @@
-service set-old-build /sbin/set-old-build.sh
+service set-old-build /bin/set-old-build.sh
     user root
     group root
     disabled
